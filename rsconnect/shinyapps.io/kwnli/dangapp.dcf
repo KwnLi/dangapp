@@ -1,0 +1,13 @@
+name: dangapp
+title: dangapp
+username:
+account: kwnli
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5385600
+bundleId: 5425748
+url: https://kwnli.shinyapps.io/dangapp/
+when: 1641082213.68951
+lastSyncTime: 1641082213.68951
+asMultiple: FALSE
+asStatic: FALSE
